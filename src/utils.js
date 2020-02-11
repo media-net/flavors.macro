@@ -8,7 +8,7 @@ export default class Utils {
     }
 
     static isEmptyObj(obj) {
-        return this.isNull(obj) || Object.entries(obj).length === 0
+        return this.isNull(obj) || Object.keys(obj).length === 0
     }
 
     /**
