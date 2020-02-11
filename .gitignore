@@ -1,6 +1,5 @@
 /node_modules
 __snapshots__
 .DS_Store
-/lib
 .idea
 yarn.lock
